@@ -56,7 +56,6 @@
       "src": "images/screenshots/imagem2.png",
       "sizes": "720x1280",
       "type": "image/png",
-      "form_factor": "narrow",
       "label": "List of Awesome Resources available in Awesome App"
     }
   ]
