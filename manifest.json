@@ -1,7 +1,7 @@
 {
   "name": "Dev'Coffee",
   "short_name": "DevCoffee",
-  "start_url": "/index.html",
+  "start_url": "/freeCodeCampApp/index.html",
   "display": "standalone",
   "lang": "pt-BR",
   "background_color": "blue",
