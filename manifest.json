@@ -2,7 +2,7 @@
   "name": "Dev'Coffee",
   "short_name": "DevCoffee",
   "id": "/?homescreen=1",
-  "start_url": "/?homescreen=1",
+  "start_url": "/",
   "display": "standalone",
   "lang": "pt-BR",
   "background_color": "blue",
