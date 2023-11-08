@@ -46,17 +46,17 @@
   ],
   "screenshots": [
     {   
-      "src": "screenshots/imagem1.jpeg",
+      "src": "/images/screenshots/imagem1.png",
       "sizes": "720x1280",
-      "type": "image/jpeg",
+      "type": "image/png",
       "form_factor": "wide",
       "label": "Homescreen of Awesome App"
     },
     {
-      "src": "screenshots/imagem2.jpeg",
+      "src": "/images/screenshots/imagem2.png",
       "sizes": "720x1280",
-      "type": "image/jpeg",
-      "form_factor": "wide",
+      "type": "image/png",
+      "form_factor": "narrow",
       "label": "List of Awesome Resources available in Awesome App"
     }
   ]
